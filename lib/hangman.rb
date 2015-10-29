@@ -4,3 +4,4 @@ module Hangman
 end
 
 require_relative "./hangman/computer.rb"
+require_relative "./hangman/player.rb"
